@@ -7,15 +7,15 @@ lineNumbers: false
 routerMode: 'hash'
 
 info: |
-  ## hello slidev
+  ## Hello Slidev
 
 drawings:
   persist: false
 css: unocss
-title: hello slidev
+title: Hello Slidev
 ---
 
-# **hello slidev**
+# **Hello Slidev**
 
 <div
 v-motion
