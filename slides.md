@@ -27,6 +27,8 @@ v-motion
   </span>
 </div>
 
+模板地址 [https://github.com/godkun/ppt-template](https://github.com/godkun/ppt-template)
+
 ---
 src: ./pages/目录.md
 ---
