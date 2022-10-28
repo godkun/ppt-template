@@ -2,6 +2,8 @@
 
 blazing ppt template with slidev
 
+![](./public/show.gif)
+
 ## install
 
 ```sh
