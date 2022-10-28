@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "composite": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": false,
+    "baseUrl": ".",
+    "lib": ["dom", "esnext"],
+    "typeRoots": ["./node_modules/@types/*/**"],
+    "noImplicitAny": false,
+    "skipLibCheck": true
+  },
+  "include": ["./**/*.ts", "./**/*.vue"],
+  "exclude": ["node_modules", "dist", "**/*.js"]
+}
