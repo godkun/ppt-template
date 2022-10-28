@@ -52,10 +52,6 @@ src: ./pages/时间线.md
 ---
 
 ---
-src: ./pages/按钮.md
----
-
----
 src: ./pages/第一种经典布局.md
 ---
 
