@@ -1,6 +1,10 @@
 {
   "name": "ppt-template",
-  "private": true,
+  "version": "0.1.0",
+  "description": "Blazing ppt template with slidev",
+  "homepage": "https://github.com/godkun/ppt-template",
+  "license": "MIT",
+  "author": "godkun <godkun666@126.com>",
   "scripts": {
     "build": "slidev build",
     "dev": "slidev",
