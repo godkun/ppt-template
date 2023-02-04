@@ -112,5 +112,11 @@ watch(
     color: #232323;
     margin-right: -5px;
   }
+  
+  @media (prefers-color-scheme: dark){
+    .bigData {
+      color: aliceblue;
+    }
+  }
 }
 </style>
