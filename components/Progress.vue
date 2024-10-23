@@ -109,7 +109,6 @@ watch(
   .bigData {
     font-size: 30px;
     font-weight: 500;
-    color: #232323;
     margin-right: -5px;
   }
 }
